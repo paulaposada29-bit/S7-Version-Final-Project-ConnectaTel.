@@ -1,1 +1,2 @@
 # S7-Version-Final-Project-ConnectaTel.
+Proyecto de análisis exploratorio de datos desarrollado en Python con información de clientes de una empresa de telecomunicaciones ConnectaTel. El proyecto incluye limpieza de datos, tratamiento de valores faltantes y sentinels, agregación de métricas de uso, segmentación de usuarios y visualización de patrones de comportamiento para apoyar la toma de decisiones basada en datos.
